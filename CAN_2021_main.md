@@ -78,9 +78,9 @@ comming soon
 
 *<font color="#827e9c">Sorana Morrissy</font>* 
 
-[Lecture]()  
+[Lecture in pdf](https://drive.google.com/file/d/1Z76ceAaesOtQUOb5glZqCYFfjKNInb5u/view?usp=sharing)  
 
-[Lab Practical]()  
+[Lab Practical](https://github.com/bioinformatics-ca/CAN_2021/blob/main/Module4/Somatic_tutorial.md)  
 
 ## Module 05: Single Cell Genomics - DNA
 
